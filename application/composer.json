@@ -1,0 +1,15 @@
+{
+  "name": "alexvenga/otus_hw_7_01",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "MIT license",
+  "authors": [
+    {
+      "name": "AlexVenga",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "alexvenga/check-brackets-in-mathematical-expressions": "dev-master"
+  }
+}
